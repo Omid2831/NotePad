@@ -13,7 +13,7 @@ public class Notepad extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         textArea = new JTextArea();
-        textArea.setFont(new Font("Monospaced", Font.PLAIN, 12));
+        textArea.setFont(new Font("Comic Sans MS", Font.BOLD, 22));
         add(new JScrollPane(textArea), BorderLayout.CENTER);
 
         JMenuBar menuBar = new JMenuBar();
