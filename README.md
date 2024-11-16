@@ -36,5 +36,15 @@ java -cp bin Notepad.java
 (Please make sure Notepad.java is your program's entry point.)  
 ---
 ### 🛠️ File Structure
-
-<pre> 📂 Notepad-App ├── src/ │ └── main/ │ └── java/ │ ├── Main.java# Main entry point of the application │ └── NotePad.java# NotePad functionality implementation ├── bin/ │ ├── Main.class# Compiled bytecode for Main │ └── NotePad.class# Compiled bytecode for NotePad ├── 📂 capture │ ├── NoteVid.mp4 # Video demo of the application │ └── Pic.png# Screenshot of the application </pre>
+<pre>
+📂 Notepad-App
+├── src/
+│   └── main/
+│       └── java/
+│           └── Notepad.java       # Notepad functionality implementation
+├── 📂 capture
+│   ├── NoteVid.mp4                # Video demo of the application
+│   └── Pic.png                    # Screenshot of the application
+└── README.md                      # Documentation file for the project
+</pre>
+---
