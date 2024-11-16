@@ -1,15 +1,15 @@
 <<<<<<< HEAD
-# NotePad 🌟
+# Notepad Application 📝
 
-This is a **Note message**. Keep this note close to remind yourself of your unlimited potential and the power you hold to overcome any obstacles.
+This is a **native Java** implementation of a lightweight **Notepad** application. It features a simple yet functional graphical user interface (GUI) built using `Swing`, allowing users to create, edit, save, and open text files.
 
 ---
 
-## ✨ The Message
+## 🖼️ Demo
 
-### Words of Inspiration:
-![ Note Screenshot](capture/pic.png)
-> "Rise above doubt, for the only limits are the ones you refuse to break "
+### Application Screenshot:
+[![ Note Screenshot](capture/Pic.png)](capture/NoteVid.mp4)
+> "Click the image above to watch the video."
 
 ---
 
@@ -26,7 +26,6 @@ This is a **Note message**. Keep this note close to remind yourself of your unli
 2. Navigate to the cloned repository:
 ```bash
 cd motivational-note
+```
 =======
-# NotePad
-This notepad demonstrates its functionalities and illustrates how it will operate as a professional application.
->>>>>>> 8de2a339c6cc10e0773e6b149266131385337eca
+
