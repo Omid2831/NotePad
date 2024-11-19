@@ -15,6 +15,7 @@ This is a **native Java** implementation of a lightweight **Notepad** applicatio
 ## 🚀 How to Use
 ### Prerequisites
 - [**Java Development Kit (JDK)**](https://www.oracle.com/java/technologies/downloads/) installed (version 8 or higher)
+-  [**Git**](https://git-scm.com/) installed
 
 1. Open your terminal and clone the repository:
 ```bash
